@@ -1,0 +1,9 @@
+Package: com.dava.roothelper
+Name: RootHelper
+Version: 1.0
+Architecture: iphoneos-arm
+Description: RootHelperDava
+Maintainer: dava
+Author: dava
+Section: System
+Tag: role::hacker
